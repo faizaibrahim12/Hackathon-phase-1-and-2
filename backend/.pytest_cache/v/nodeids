@@ -1,0 +1,6 @@
+[
+  "test_chatbot.py::test_ai_agent_service",
+  "test_chatbot.py::test_chat_endpoint_creation",
+  "test_chatbot.py::test_chat_endpoint_with_existing_conversation",
+  "test_chatbot.py::test_database_models"
+]

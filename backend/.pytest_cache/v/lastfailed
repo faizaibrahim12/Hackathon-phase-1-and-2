@@ -1,0 +1,5 @@
+{
+  "test_chatbot.py::TestClient": true,
+  "test_chatbot.py::test_chat_endpoint_creation": true,
+  "test_chatbot.py::test_chat_endpoint_with_existing_conversation": true
+}
